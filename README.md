@@ -5,8 +5,6 @@
 3) Create supabase account, copy api keys to .env and upload sql query and policy
 4) In supabase Configuration -> Sign In / Providers add Clerk url to auth verifying process
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/ugxI1o5SyMs)
-
 ---
 
 ```sql
