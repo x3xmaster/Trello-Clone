@@ -1,3 +1,14 @@
+## 🚀 Introduction
+
+1) Create Clerk.com account and add create application, copy api keys to project .env
+2) Enable Billing settings in Clerk.com and setup Subscription plans - free, pro, advanced with prices 
+3) Create supabase account, copy api keys to .env and upload sql query and policy
+4) In supabase Configuration -> Sign In / Providers add Clerk url to auth verifying process
+
+🎥 Watch the full tutorial: [YouTube](https://youtu.be/ugxI1o5SyMs)
+
+---
+
 ```sql
 -- =========================================================
 -- 0. Helper: get the requesting user's id from JWT
